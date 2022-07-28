@@ -1,6 +1,7 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Bienvenido a el ejercicio 8 de introduccion a la programacion de OBootcamp.
+Este proyecto java esta hecho en vscode + Java SDK 11
 
 ## Folder Structure
 
